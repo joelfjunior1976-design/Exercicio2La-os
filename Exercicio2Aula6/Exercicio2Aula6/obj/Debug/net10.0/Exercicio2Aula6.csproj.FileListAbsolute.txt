@@ -1,0 +1,14 @@
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\obj\Debug\net10.0\Exercicio2Aula6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\obj\Debug\net10.0\Exercicio2Aula6.AssemblyInfoInputs.cache
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\obj\Debug\net10.0\Exercicio2Aula6.AssemblyInfo.cs
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\obj\Debug\net10.0\Exercicio2Aula6.csproj.CoreCompileInputs.cache
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\bin\Debug\net10.0\Exercicio2Aula6.exe
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\bin\Debug\net10.0\Exercicio2Aula6.deps.json
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\bin\Debug\net10.0\Exercicio2Aula6.runtimeconfig.json
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\bin\Debug\net10.0\Exercicio2Aula6.dll
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\bin\Debug\net10.0\Exercicio2Aula6.pdb
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\obj\Debug\net10.0\Exercicio2Aula6.dll
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\obj\Debug\net10.0\refint\Exercicio2Aula6.dll
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\obj\Debug\net10.0\Exercicio2Aula6.pdb
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\obj\Debug\net10.0\Exercicio2Aula6.genruntimeconfig.cache
+C:\Users\joelf\source\repos\Exercicio2Aula6\Exercicio2Aula6\obj\Debug\net10.0\ref\Exercicio2Aula6.dll

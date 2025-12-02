@@ -1,0 +1,14 @@
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\obj\Debug\net10.0\Exercicio4Aula6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\obj\Debug\net10.0\Exercicio4Aula6.AssemblyInfoInputs.cache
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\obj\Debug\net10.0\Exercicio4Aula6.AssemblyInfo.cs
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\obj\Debug\net10.0\Exercicio4Aula6.csproj.CoreCompileInputs.cache
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\bin\Debug\net10.0\Exercicio4Aula6.exe
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\bin\Debug\net10.0\Exercicio4Aula6.deps.json
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\bin\Debug\net10.0\Exercicio4Aula6.runtimeconfig.json
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\bin\Debug\net10.0\Exercicio4Aula6.dll
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\bin\Debug\net10.0\Exercicio4Aula6.pdb
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\obj\Debug\net10.0\Exercicio4Aula6.dll
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\obj\Debug\net10.0\refint\Exercicio4Aula6.dll
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\obj\Debug\net10.0\Exercicio4Aula6.pdb
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\obj\Debug\net10.0\Exercicio4Aula6.genruntimeconfig.cache
+C:\Users\joelf\source\repos\Exercicio4Aula6\Exercicio4Aula6\obj\Debug\net10.0\ref\Exercicio4Aula6.dll
